@@ -1,0 +1,23 @@
+body { 
+    background-color: #EAF6F6 ;
+      
+}
+hr {
+    background-color: #EAF6F6;
+    border-style: dotted none none;
+    height: 0px;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+img {
+    width: 150px;
+}
+
+h1 {
+    color:#66BFBF;
+}
+
+h3 {
+    color:rebeccapurple;
+}
